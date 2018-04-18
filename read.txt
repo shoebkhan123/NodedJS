@@ -1,0 +1,1068 @@
+There are many ways of talking about the theory of the
+novel, and mine will consist in posing three questions: Why
+are novels in prose; Why are they so often stories of adventures;
+and, Why was there a European, but not a Chinese rise
+of the novel in the course of the eighteenth century. Disparate as they
+may sound, the questions have a common source in the guiding idea
+of the collection The Novel: ‘to make the literary field longer, larger, and
+deeper’: historically longer, geographically larger, and morphologically
+deeper than those few classics of nineteenth-century Western European
+‘realism’ that have dominated the recent theory of the novel (and my
+own work).1
+ What the questions have in common, then, is that they
+all point to processes that loom large in the history of the novel, but
+not in its theory. Here, I w
+112 nlr 52
+Let me begin from the opposite side, of verse. Verse, versus: there is a
+pattern that turns around and comes back: there is a symmetry, and
+symmetry always suggests permanence, that’s why monuments are
+symmetrical. But prose is not symmetrical, and this immediately creates
+a sense of im-permanence and irreversibility: prose, pro-vorsa: forwardlooking
+(or front-facing, as in the Roman Dea Provorsa, goddess of easy
+childbirth): the text has an orientation, it leans forwards, its meaning
+‘depends on what lies ahead (the end of a sentence; the next event in the
+plot)’, as Michal Ginsburg and Lorri Nandrea have put it.2
+ ‘The knight
+was defending himself so bravely that his assailers could not prevail’; ‘Let’s
+withdraw a little, so that they will not recognize me’; ‘I don’t know that
+knight, but he is so bravethat I would gladly give him my love’. I found these
+passages in a half page of the prose Lancelot, easily, because consecutive
+and final constructions—where meaning depends so much on what
+lies ahead that a sentence literally falls into the following one—these
+forward-looking arrangements are everywhere in prose, and allow it its
+typical acceleration of narrative rhythm. And it’s not that verse ignores
+the consecutive nexus while prose is nothing but that, of course; these
+are just their ‘lines of least resistance’, to use Jakobson’s metaphor; it is
+not a matter of essence, but of relative frequency—but style is always a
+matter of relative frequency, and consecutiveness is a good starting point
+for a stylistics of prose.
+But there is a second possible starting point, which leads, not towards
+narrativity, but towards complexity. It’s a point often made by studies
+of dérimage, the thirteenth-century prosification of courtly romances
+which was one of the great moments of decision, so to speak, between
+verse and prose, and where one thing that kept happening, in the
+transfer from one into the other, was that the number of subordinate
+1
+ This article was given at the conference ‘Theories of the Novel’, organized by Novel,
+at Brown University, in the fall of 2007. Except for a couple of passages, expanded
+in the light of the discussion that followed, I have left the text more or less as it was,
+only adding a few footnotes. I am very grateful to Nancy Armstrong, who persuaded
+me to write the paper in the first place; and to D.A. Miller and William Warner, with
+whom I have discussed it at length. The sentence from The Novel comes from the
+brief preface (‘On The Novel’) that can be found in both volumes of the Princeton
+edition (see footnote 2), on p. x.
+2
+ Michal Ginsburg and Lorri Nandrea, ‘The Prose of the World’, in Franco Moretti,
+ed., The Novel, vol. ii, Princeton 2006, p. 245. On this topic, I have also learned a lot
+from Kristin Hanson and Paul Kiparsky, ‘The Nature of Verse and its Consequences
+for the Mixed Form’, in Joseph Harris and Karl Reichl, eds, Prosimetrum. CrossCultural
+Perspectives on Narrative in Prose and Verse, Cambridge 1997.
+moretti: Novel Theory 113
+clauses—increased.3
+ Which makes sense, a line of verse can to a certain
+extent stand alone, and so it encourages independent clauses; prose is
+continuous, it’s more of a construction, I don’t think it’s an accident
+that the myth of ‘inspiration’ is so seldom evoked for prose: inspiration
+is too instantaneous to make sense there, too much like a gift; and
+prose is not a gift; it’s work: ‘productivity of the spirit’, Lukács called
+it in the Theory of the Novel, and it’s the right expression: hypotaxis
+is not only laborious—it requires foresight, memory, adequation of
+means to ends—but truly productive: the outcome is more than the
+sum of its parts, because subordination establishes a hierarchy among
+clauses, meaning becomes articulated, aspects emerge that didn’t exist
+before . . . That’s how complexity comes into being.
+The acceleration of narrativity; the construction of complexity. Both
+real: and totally at odds with each other. What did prose mean for the
+novel . . . it allowed it to play on two completely different tables—popular
+and cultivated—making it a uniquely adaptable and successful form. But,
+also, an extremely polarized form. The theory of the novel should have
+greater morphological depth, I said earlier, but depth is an understatement:
+what we have here are stylistic extremes that in the course of two
+thousand years not only drift further and further away from each other,
+but turn against each other: the style of complexity, with its hypothetical,
+concessive, and conditional clauses, making forward-looking narrative
+seem hopelessly simple-minded and plebeian; and popular forms, for
+their part, mutilating complexity wherever they find it—word, sentence,
+paragraph, dialogue, everywhere.
+A form divided between narrativity and complexity: with narrativity
+dominating its history, and complexity its theory. And, yes, I understand
+why someone would rather study sentence structure in The Ambassadors
+than in its contemporary Dashing Diamond Dick. The problem is not the
+value judgment, it’s that when a value judgment becomes the basis for
+concepts, then it doesn’t just determine what is valued or not, but what is
+thinkable or not, and in this case, what becomes unthinkable is, first, the
+vast majority of the novelistic field, and, second, its very shape: because
+polarization disappears if you only look at one of the extremes, whereas
+it shouldn’t, because it’s the sign of how the novel participates in social
+inequality, and duplicates it into cultural inequality. A theory of the
+novel should account for this. But to do so, we need a new starting point.
+3
+ See, for instance, Wlad Godzich and Jeffrey Kittay, The Emergence of Prose. An essay
+in prosaics, Minneapolis 1987, pp. 34ff. 
+114 nlr 52
+‘Veblen explains culture in terms of kitsch, not vice-versa’, writes Adorno
+in Prisms, disapprovingly:4
+ but it’s such a tempting idea. Taking the style
+of dime novels as the basic object of study, and explaining James’s as
+an unlikely by-product: that’s how a theory of prose should proceed—
+because that’s how history has proceeded. Not the other way around.
+Looking at prose style from below . . . With digital databases, this is now
+easy to imagine: a few years, and we’ll be able to search just about all
+novels that have ever been published, and look for patterns among
+billions of sentences. Personally, I am fascinated by this encounter of
+the formal and the quantitative. Let me give you an example: all literary
+scholars analyse stylistic structures—free indirect style, the stream
+of consciousness, melodramatic excess, whatever. But it’s striking how
+little we actually know about the genesis of these forms. Once they’re
+there, we know what to do; but how did they get there in the first place?
+How does the ‘confused thought’ (Michel Vovelle) of mentalité, which
+is the substratum for almost all that happens in a culture—how does
+messiness crystallize into the elegance of free indirect style? Concretely:
+what are the steps? No one really knows. By sifting through thousands
+of variations and permutations and approximations, a quantitative stylistics
+of the digital archive may find some answers. It will be difficult,
+no doubt, because one cannot study a large archive in the same way
+one studies a text: texts are designed to ‘speak’ to us, and so, provided
+we know how to listen, they always end up telling us something; but
+archives are not messages that were meant to address us, and so they
+say absolutely nothing until one asks the right question. And the trouble
+is, we literary scholars are not good at that: we are trained to listen,
+not to ask questions, and asking questions is the opposite of listening:
+it turns criticism on its head, and transforms it into an experiment of
+sorts: ‘questions put to nature’ is how experiments are often described,
+and what I’m imagining here are questions—put to culture. Difficult;
+but too interesting not to give it a try.
+II
+All this lies in the future. My second point lies in the past. Novels are
+long; or rather, they span a very wide range of lengths—from the 20,000
+words of Daphnis and Chloe to the 40,000 of Chrétien, 100,000 of
+4
+ Theodor Adorno, ‘Veblen’s Attack on Culture’, in Prisms, Cambridge, ma 1990,
+p. 79.
+moretti: Novel Theory 115
+Austen, 400,000 of Don Quixote, and over 800,000 of The Story of the
+Stone—and one day it will be interesting to analyse the consequences of
+this spectrum, but for now let’s just accept the simple notion that they
+are long. The question is, How did they get to be that way, and there are
+of course several answers, but if I had to choose a single mechanism
+I would say: adventures.5
+ Adventures expand novels by opening them
+to the world: a call for help comes—the knight goes. Usually, without
+asking questions; which is typical of adventure, the unknown is not a
+threat here, it’s an opportunity, or more precisely: there is no longer any
+distinction between threats and opportunities. ‘Who leaves the dangerous
+path for the safe’, says Galessin, one of the knights of the Round
+Table, ‘is not a knight, is a merchant’: true, capital doesn’t like danger for
+its own sake, but a knight does: he has to: he can’t accumulate glory, he
+must renew it all the time, so he needs this perpetual motion machine
+of adventure . . .
+. . . perpetual, especially if a border is in sight: across the bridge, into
+the forest, up the mountain, through the gate, at sea. Adventures make
+novels long because they make them wide; they are the great explorers of
+the fictional world: battlefields, oceans, castles, sewers, prairies, islands,
+slums, jungles, galaxies . . . Practically all great popular chronotopes have
+arisen when the adventure plot has moved into a new geography, and
+activated its narrative potential. Just as prose multiplies styles, then,
+adventure multiplies stories: and forward-looking prose is perfect for
+adventure, syntax and plot moving in unison, I’m not sure there is a
+main branch in the family of forms we call the novel, but if there is one,
+5
+ If I had to choose a single mechanism . . . And if I could choose two: adventures—
+and love. One mechanism to expand the story, and one to hold it together: a
+conjunction that is particularly clear in the ancient novels, where love is the one
+source of permanence in a world where everything else is scattered by fortune to
+the four winds, and acts therefore as a figure for the social bond in general: the freely
+chosen union from which, in antithesis to the adventures despotically imposed by
+Tuche, a larger organism can somehow be glimpsed. But this balance between love
+and adventure breaks down in chivalric romances, as errant knights start to actively
+look for adventures (the Quest), and new figures for the social contract emerge (the
+Court, the Round Table, the Grail). In this new situation, love becomes functionally
+subordinated to adventure—and the theme of adultery, which immediately arises, is
+at once the symptom of its abiding strength, and of its newly problematic position.
+This redistribution of narrative tasks, from which love has never fully recovered, is
+the reason why I decided to focus exclusively on adventures; besides, love has long
+been recognized by the theory of the novel (especially in the English tradition), and
+I wanted to shift our attention towards the historically broader phenomenon. 
+116 nlr 52
+it’s this: we would still recognize the history of the novel without modernism,
+or even without realism;6 without adventures in prose, no.
+Here, too, the novelistic field is profoundly polarized between adventures
+and the everyday; and here, too, the theory of the novel has shown very
+little interest (aside from Bakhtin, and now Pavel), for the popular side
+of the field. But I won’t repeat that aspect of the argument, and will turn
+instead to the odd narrowness that—in spite of all its plasticity—seems
+typical of adventure. A social narrowness, fundamentally. The whole idea
+had been ‘a creation of the petty nobility of penniless knights’, for whom
+‘“aventure” was a way to survive—and possibly, to marry a heiress’, writes
+Erich Köhler, who was the great sociologist of this convention.7
+ But if
+knights needed adventures, for other social classes the notion remained
+opaque. ‘I am, as you see, a knight seeking what I cannot find,’ says
+Calogrenant to a peasant at the beginning of Yvain: ‘And what do you
+want to find?’ ‘Adventure, to test my courage and my strength. Now I
+pray and beseech you to advise me, if you know, of any adventure or
+wonder’. ‘I know nothing of adventure, nor have I ever heard about
+it’ (ll. 356–67). What a reply; only a few years earlier, in the chanson de
+geste, the nature of knightly action was clear to everybody; not any more.
+Chivalric ethos has become ‘absolute . . . both in its ideal realization and
+in the absence of any earthly and practical purpose’ writes Auerbach in
+Mimesis: ‘no political function . . . no practical reality at all’. And yet, he
+goes on, this unreal ethos ‘attained acceptance and validity in the real
+world’ of Western culture for centuries to come.8
+ How could it be?
+For Köhler, the reason was that adventure became ‘stylized and moralized’
+in the much wider ideal—launched by the Crusades, and sublimated by
+the Grail—of ‘the Christian redemption of the warrior’.9 Which sounds
+6 Hopefully, modernism (that is to say: the host of centrifugal experiments—Stein,
+Kafka, Joyce, Pilniak, De Chirico, Platonov . . . —attempted in the years around
+World War I) will play a larger role than realism in any future theory of the novel,
+as a cluster of incompatible extremes should reveal something unique about what a
+form can—and cannot—do. So far, however, this has not been the case.
+7
+ Erich Köhler, ‘Il sistema sociologico del romanzo francese medievale’, Medioevo
+Romanzo, vol. 3, 1976, pp. 321–44. 8
+ Erich Auerbach, Mimesis, Princeton 2003, pp. 134, 136. On this, see also Erich
+Köhler, ‘Quelques observations d’ordre historico-sociologique sur les rapports entre
+la chanson de geste et le roman courtois’, in Chanson de geste und höfischer Roman,
+Heidelberg 1963, passim. 9 Köhler, ‘Il sistema sociologico’, p. 326.
+moretti: Novel Theory 117
+right, but in its turn opens another problem: how could these starkly
+feudal coordinates of adventure, not only survive into the bourgeois age,
+but inspire all of its most popular genres?
+III
+Before I attempt an answer, some thoughts on the third question, the
+Chinese–European comparison. Until well into the nineteenth century,
+almost the end in fact, East Asian and West European novels developed
+independently of each other; which is great, it’s like an experiment history
+has run for us, the same form in two . . . laboratories, it’s perfect for
+comparative morphology, because it allows us to look at formal features
+not as givens, as we inevitably tend to do, but as choices: and choices that
+eventually add up to alternative structures. Beginning, for instance, with
+how often the protagonists of Chinese novels are, not individuals, but
+groups: the household in the Jin Ping Mei and The Story of the Stone (or
+Dream of the Red Chamber), the outlaws in The Water Margin, the literati
+in The Scholars. Titles are already a clue—what would European titles
+do without proper names—but here, not even one; and these are not
+just random novels, they are four of the six ‘great masterpieces’ of the
+Chinese canon, their titles (and their heroes) matter.
+So, groups. Large; and with even larger character-systems around them:
+Chinese critics have identified over 600 characters in The Scholars, 800
+in The Water Margin and the Jin Ping Mei, 975 in The Story of the Stone.
+And since size is seldom just size—a story with a thousand characters
+is not like a story with fifty characters, only twenty times bigger: it’s a
+different story—all this ends up generating a structure which is very
+unlike the one we are used to in Europe. With so many variables, one
+would expect it to be more unpredictable, but the opposite is actually
+more often the case: a great attempt at reducing unpredictability, and
+re-balancing the narrative system. Let me give you an example from
+The Story of the Stone: after six or seven hundred pages, the two young
+undeclared lovers, Bao-yu and Dai-yu, have one of their many fights;
+Dai-yu leaves, and Bao-yu, left alone, falls into a sort of trance; his maid
+Aroma arrives, but he doesn’t notice her, and in his dream-like state proceeds
+to express for the first time his love for Dai-yu; then he ‘awakes’,
+sees Aroma, is bewildered, runs away, and one can imagine all sorts of
+sequels here: Aroma has been sleeping with Bao-yu for some time, and 
+118 nlr 52
+could feel wounded; or she could side with Dai-yu, and tell her what
+Bao-yu has just said; or she could betray her to the other young woman
+who is in love with Bao-yu . . . Many ways of making the episode generate
+narrative (after all, we’ve been waiting for this declaration of love for
+hundreds of pages); and instead, what Aroma immediately thinks is ‘how
+she could arrange matters so as to prevent any scandal developing from
+those words’. Preventing developments: that’s the key. Minimizing narrativity.
+The Story of the Stone is often described as a Chinese Buddenbrooks,
+and they are certainly both stories of the decline of a great family, but
+Buddenbrooks covers a half century in five hundred pages, and Stone a
+dozen years in two thousand pages: and it’s not just a matter of rhythm,
+here (although that is obviously also the case), but of the hierarchy
+between synchrony and diachrony: Stone has a ‘horizontal’ dominant,
+where what really matters is not what lies ‘ahead’ of a given event, as
+in ‘forward-looking’ European prose, but what lies ‘to the side’ of it: all
+the vibrations that ripple across this immense narrative system—and
+all the counter-vibrations that try to keep it stable. Earlier, I pointed out
+how the breakdown of symmetry allowed European prose to intensify
+irreversibility; irreversibility is present also in Chinese novels, of course,
+but instead of intensifying it they often try to contain it, and so symmetry
+regains its centrality: chapters are announced by couplets that neatly
+divide them into two halves; many important passages are couched in
+the wonderfully named ‘parallel prose’ (‘Every evening devoted to the
+pursuit of pleasure; Every morning an occasion for deluded dalliance’);
+in the novel’s overall architecture there are blocks of ten, twenty, even
+fifty chapters that mirror each other across hundreds of pages . . . It’s
+really an alternative tradition.
+Alternative, but comparable: up to the eighteenth century, the Chinese
+novel was arguably greater in both quantity and quality than any in
+Europe, with the possible exception of France. ‘The Chinese have novels
+by the thousand, and already had them when our ancestors were living
+in the forests’, said Goethe to Eckermann in 1827, on the day he coined
+the concept of Weltliteratur (while reading a Chinese novel). But the figures
+are wrong: by 1827 novels by the thousand existed in France, or
+Britain, or indeed in Germany—but not in China.
+Why? 
+moretti: Novel Theory 119
+IV
+When we discuss the destinies of eighteenth-century core areas, writes
+Kenneth Pomeranz in The Great Divergence,
+we should make our comparisons . . . truly reciprocal . . . that is, look for
+absences, accidents and obstacles that diverted England from a path that
+might have made it more like the Yangzi Delta or Gujarat, along with the
+more usual exercise of looking for blockages that kept non-European areas
+from reproducing implicitly normalized European paths . . . view both sides
+of the comparison as ‘deviations’ when seen through the expectations of the
+other, rather than leaving one as always the norm.10
+The European rise of the novel as a deviation from the Chinese path: as
+soon as you start thinking in these terms, it immediately leaps to the eye
+how much more seriously the novel was taken in China than in Europe.
+Despite all the attacks by the Confucian literati, by the early seventeenth
+century Chinese culture already had a novelistic canon; Europe wasn’t
+even thinking about it. For the epic or tragedy it had one, or the lyric;
+not for the novel. And the canon is just the tip of the iceberg: there was
+in China an immense investment of intellectual energies in the edition,
+revision, continuation, and especially commentary of novels. These were
+already very long books, The Romance of the Three Kingdoms, 600,000
+words, the inter-lineal commentary made it almost a million—but it
+added so much ‘to the enjoyment . . . of the novel’, writes David Rolston,
+‘that editions without commentary . . . went out of circulation’.11
+‘The novel has less need of . . . commentary than other genres’, writes
+Watt in The Rise of the Novel,
+12 and for Europe he’s right. But Chinese novels
+needed them, because they were seen as—art. Since at least the Jin
+Ping Mei, around 1600, ‘Chinese xiaoshuo went through an . . . extended
+aesthetic turn’, writes Ming Dong Gu: ‘a self-conscious emulation and
+competition with the dominant literary genres . . . a poeticization’.13 We
+should look for absences that diverted the European novel from the
+Chinese path . . . and here is one: the aesthetic turn of the European
+10 Kenneth Pomeranz, The Great Divergence. China, Europe, and the Making of the
+Modern World Economy, Princeton 2000, pp. 7–8. 11 David L. Rolston, Traditional Chinese Fiction and Fiction Commentary. Reading and
+Writing Between the Lines, Stanford 1997, p. 4. 12 Ian Watt, The Rise of the Novel, Berkeley 1957, p. 30. 13 Ming Dong Gu, Chinese Theories of Fiction. A Non-Western Narrative System, New
+York 2006, p. 71.
+120 nlr 52
+novel occurred in the late nineteenth century, with a delay of almost
+three hundred years.14
+Why?
+V
+For Pomeranz, one reason for the great divergence was that in eighteenthcentury
+Europe ‘the wheels of fashion were spinning faster’,15 stimulating
+consumption, and through it the economy as a whole; while in China,
+after the consolidation of the Qing dynasty, consumption ‘as a motor
+of change’ came to a halt for over a century, not triggering that ‘consumer
+revolution’ McKendrick, Brewer and Plumb have written about.
+Revolution is a big word, and many have questioned the extent of consumption
+before the mid-nineteenth-century; still, no one really doubts
+that ‘superfluous things’, to use a Chinese expression, multiplied during
+the eighteenth century, from interior decoration to mirrors, clocks, porcelain,
+silverware, jewelry—and concerts, journeys and books. ‘In any
+consideration of leisure’, writes Plumb, ‘it would be quite wrong not to
+put cultural pursuits in the foreground’.16 So: what did ‘the birth of a
+consumer society’ mean for the European novel?
+14 The divergence of the two models is well illustrated by the role played by Don
+Quixote and the Jin Ping Mei—two novels that were written in the same years, and
+are often compared to each other (more by sinologists than by hispanists, it must
+be said)—in their respective traditions: for at least two centuries, if not longer, the
+Jin Ping Mei’s influence on the theory and practice of the novel in China was incomparably
+greater than that of Don Quixote in Europe. A similar parting of the ways
+occurs in the late eighteenth century, when the peak of the Chinese aesthetic turn
+(The Story of the Stone) could have found its match in an incredibly gifted generation
+of German poet-novelists (Goethe, Hölderlin, Novalis, Schlegel, Von Arnim,
+Brentano)—if only they hadn’t been roundly ignored by European readers (except
+for Goethe, of course; but even Goethe kept the ‘poetic’ first version of Meister in a
+drawer, as if sensing that it wasn’t the right book for the times). Incidentally, that
+the Jin Ping Mei could be hailed as the masterpiece that would change the Chinese
+novel is another striking instance of the difference between the two traditions: that
+European culture could produce—and appreciate!—an erotic corpus as explicit as
+the Chinese one is quite unimaginable.
+15 Pomeranz, The Great Divergence, p. 161. 16 J. H. Plumb, ‘The Commercialization of Leisure in Eighteenth-Century England’,
+in Neil McKendrick, John Brewer, J. H. Plumb, The Birth of a Consumer Society. The
+Commercialization of Eighteenth-Century England, Bloomington 1982, pp. 265–6.
+moretti: Novel Theory 121
+First of all, a giant quantitative leap. From the first to the last decade of
+the century, new titles increased seven times in France (even though,
+in the 1790s, the French had more to do than write novels); fourteen in
+Britain; and about thirty in the German territories. Also, by the end of
+the eighteenth century print runs had become a little larger, especially
+for reprints; many novels that are not included in the standard bibliographies
+were published in magazines (some of which had a very wide
+audience); the strengthening of family ties encouraged reading aloud at
+home (providing the training ground for Dr. Bowdler’s vocation); finally,
+and most significantly, the diffusion of lending libraries made novels
+circulate much more efficiently than before, eventually leading to the
+imposition of the three-decker on writers and publishers alike, so as to
+lend each novel to three readers at once. Hard though it is to quantify
+these various factors, if all of them combined increased the circulation of
+novels between two and three times (a conservative estimate), then the
+presence of novels in Western Europe would have gone up between thirty
+and sixty times in the course of the eighteenth century. For McKendrick,
+the fact that consumption of tea rose fifteenfold in a hundred years is
+a great success story of the consumer revolution. Novels, increased
+more than tea.
+Why? The answer used to be, Because readers did. But the current
+consensus—which is slippery, like all that has to do with literacy, but
+has been stable for a few decades now—is that between 1700 and 1800,
+readers doubled; a little less than that in France, a little more in England,
+but that’s the horizon. They doubled; they didn’t increase fifty times.
+But, they were reading differently. ‘Extensive’ reading, Rolf Engelsing has
+called it: reading a lot more than in the past, avidly, at times passionately,
+but probably more often than not also superficially, quickly, even
+a little erratically; quite different from the ‘intensive’ reading and rereading
+of the same few books—usually devotional ones—that had been
+the norm until then.17 And Engelsing’s thesis has often been criticized,
+but with novels multiplying so much more quickly than readers, and
+readers behaving like the famous John Latimer, of Warwick, who from
+mid-January to mid-February 1771 borrowed a volume a day from Clay’s
+circulating library,18 it is hard to imagine how the whole process could
+have worked without a major increase in—let’s call it distraction.
+17 Rolf Engelsing, Der Bürger als Leser. Lesergeschichte in Deutschland 1500–1800,
+Stuttgart 1974, esp. pp. 182ff.
+18 Jan Fergus, Provincial Readers in Eighteenth-Century England, Oxford 2006, p. 113.
+122 nlr 52
+Let’s call it that, because, even though Engelsing never mentions
+Benjamin, extensive reading looks very much like an early version of
+that ‘perception in a state of distraction’ described at the end of ‘The
+Work of Art in the Age of its Technological Reproducibility’. Distraction
+in that essay is Zerstreuung—absent-mindedness, and entertainment: the
+perfect mix for novel-reading—and for Benjamin it is the attitude that
+becomes necessary at those ‘historical turning points’ when the ‘tasks’
+facing ‘the human apparatus of perception’ are so overwhelming that
+they can’t be ‘mastered’ by way of concentrated attention:19 and distraction
+emerges as the best way to cope with the new situation—to keep up
+with those ‘faster-spinning wheels of fashion’ that have so dramatically
+widened the market for novels.20
+19 Walter Benjamin, ‘The Work of Art in the Age of its Technological Reproducibility’,
+1935, in Selected Writings iii: 1935–1938, Cambridge, ma 2002, p. 119. The passage
+returns virtually unchanged in the third version of the essay, in 1939.
+20 As I hope is clear, my focus on consumption, fashion and distraction is not meant
+to erase capitalism from literary history, but to specify which of its aspects play a
+more direct causal role in the novel’s take-off. Unquestionably, capitalist expansion
+as such created some key general pre-conditions: a larger, more literate population;
+more disposable income; and more free time (for some). But since new novelistic
+titles increased four times faster than printed matter in general during the eighteenth
+century (even including the flood of pamphlets at the end of the century: see
+James Raven, The Business of Books. Booksellers and the English Book Trade 1450–1850,
+New Haven, cn 2007, p. 8), we must also explain this different rate of growth:
+and that peculiar exaggeration of consumer mentality embodied by distraction and
+fashion (and which seems to play a lesser role for drama, poetry, and most other
+types of cultural production), seems to be the best explanation we have found so far.
+That consumption could play such a large role in the history of the novel depends,
+in its turn, on the fact that the suspicion towards reading for pleasure was beginning
+to fade, in line with Constant’s idea of the Liberty of the Moderns as ‘the
+enjoyment of security in private pleasures’ (Benjamin Constant, Political Writings,
+Cambridge 2007, p. 317). Pleasure, by the way, is another blindspot of the theory of
+the novel: though we ‘know’, more or less, that the novel was from the very beginning
+a form of ‘light reading’ (Thomas Hägg, ‘Orality, literacy, and the “readership”
+of the early Greek novel’, in R. Eriksen, ed., Contexts of Pre-Novel Narrative, Berlin
+and New York 1994, p. 51), we still work as if reading for pleasure were basically
+the same as reading ‘for serious reasons—religious, economic, or social’ (J. Paul
+Hunter, Before Novels. The Cultural Contexts of Eighteenth Century English Fiction,
+New York and London, 1990, p. 84: one of the few to pose the problem in an interesting
+way). This is yet another issue on which specific historical studies are well
+ahead of theoretical reflection: the dramatic enlargement of the ancient novelistic
+field, for instance, would have been impossible without a shift towards popular,
+light, and even vulgar forms of writing. 
+There are many ways of talking about the theory of the
+novel, and mine will consist in posing three questions: Why
+are novels in prose; Why are they so often stories of adventures;
+and, Why was there a European, but not a Chinese rise
+of the novel in the course of the eighteenth century. Disparate as they
+may sound, the questions have a common source in the guiding idea
+of the collection The Novel: ‘to make the literary field longer, larger, and
+deeper’: historically longer, geographically larger, and morphologically
+deeper than those few classics of nineteenth-century Western European
+‘realism’ that have dominated the recent theory of the novel (and my
+own work).1
+ What the questions have in common, then, is that they
+all point to processes that loom large in the history of the novel, but
+not in its theory. Here, I w
+112 nlr 52
+Let me begin from the opposite side, of verse. Verse, versus: there is a
+pattern that turns around and comes back: there is a symmetry, and
+symmetry always suggests permanence, that’s why monuments are
+symmetrical. But prose is not symmetrical, and this immediately creates
+a sense of im-permanence and irreversibility: prose, pro-vorsa: forwardlooking
+(or front-facing, as in the Roman Dea Provorsa, goddess of easy
+childbirth): the text has an orientation, it leans forwards, its meaning
+‘depends on what lies ahead (the end of a sentence; the next event in the
+plot)’, as Michal Ginsburg and Lorri Nandrea have put it.2
+ ‘The knight
+was defending himself so bravely that his assailers could not prevail’; ‘Let’s
+withdraw a little, so that they will not recognize me’; ‘I don’t know that
+knight, but he is so bravethat I would gladly give him my love’. I found these
+passages in a half page of the prose Lancelot, easily, because consecutive
+and final constructions—where meaning depends so much on what
+lies ahead that a sentence literally falls into the following one—these
+forward-looking arrangements are everywhere in prose, and allow it its
+typical acceleration of narrative rhythm. And it’s not that verse ignores
+the consecutive nexus while prose is nothing but that, of course; these
+are just their ‘lines of least resistance’, to use Jakobson’s metaphor; it is
+not a matter of essence, but of relative frequency—but style is always a
+matter of relative frequency, and consecutiveness is a good starting point
+for a stylistics of prose.
+But there is a second possible starting point, which leads, not towards
+narrativity, but towards complexity. It’s a point often made by studies
+of dérimage, the thirteenth-century prosification of courtly romances
+which was one of the great moments of decision, so to speak, between
+verse and prose, and where one thing that kept happening, in the
+transfer from one into the other, was that the number of subordinate
+1
+ This article was given at the conference ‘Theories of the Novel’, organized by Novel,
+at Brown University, in the fall of 2007. Except for a couple of passages, expanded
+in the light of the discussion that followed, I have left the text more or less as it was,
+only adding a few footnotes. I am very grateful to Nancy Armstrong, who persuaded
+me to write the paper in the first place; and to D.A. Miller and William Warner, with
+whom I have discussed it at length. The sentence from The Novel comes from the
+brief preface (‘On The Novel’) that can be found in both volumes of the Princeton
+edition (see footnote 2), on p. x.
+2
+ Michal Ginsburg and Lorri Nandrea, ‘The Prose of the World’, in Franco Moretti,
+ed., The Novel, vol. ii, Princeton 2006, p. 245. On this topic, I have also learned a lot
+from Kristin Hanson and Paul Kiparsky, ‘The Nature of Verse and its Consequences
+for the Mixed Form’, in Joseph Harris and Karl Reichl, eds, Prosimetrum. CrossCultural
+Perspectives on Narrative in Prose and Verse, Cambridge 1997.
+moretti: Novel Theory 113
+clauses—increased.3
+ Which makes sense, a line of verse can to a certain
+extent stand alone, and so it encourages independent clauses; prose is
+continuous, it’s more of a construction, I don’t think it’s an accident
+that the myth of ‘inspiration’ is so seldom evoked for prose: inspiration
+is too instantaneous to make sense there, too much like a gift; and
+prose is not a gift; it’s work: ‘productivity of the spirit’, Lukács called
+it in the Theory of the Novel, and it’s the right expression: hypotaxis
+is not only laborious—it requires foresight, memory, adequation of
+means to ends—but truly productive: the outcome is more than the
+sum of its parts, because subordination establishes a hierarchy among
+clauses, meaning becomes articulated, aspects emerge that didn’t exist
+before . . . That’s how complexity comes into being.
+The acceleration of narrativity; the construction of complexity. Both
+real: and totally at odds with each other. What did prose mean for the
+novel . . . it allowed it to play on two completely different tables—popular
+and cultivated—making it a uniquely adaptable and successful form. But,
+also, an extremely polarized form. The theory of the novel should have
+greater morphological depth, I said earlier, but depth is an understatement:
+what we have here are stylistic extremes that in the course of two
+thousand years not only drift further and further away from each other,
+but turn against each other: the style of complexity, with its hypothetical,
+concessive, and conditional clauses, making forward-looking narrative
+seem hopelessly simple-minded and plebeian; and popular forms, for
+their part, mutilating complexity wherever they find it—word, sentence,
+paragraph, dialogue, everywhere.
+A form divided between narrativity and complexity: with narrativity
+dominating its history, and complexity its theory. And, yes, I understand
+why someone would rather study sentence structure in The Ambassadors
+than in its contemporary Dashing Diamond Dick. The problem is not the
+value judgment, it’s that when a value judgment becomes the basis for
+concepts, then it doesn’t just determine what is valued or not, but what is
+thinkable or not, and in this case, what becomes unthinkable is, first, the
+vast majority of the novelistic field, and, second, its very shape: because
+polarization disappears if you only look at one of the extremes, whereas
+it shouldn’t, because it’s the sign of how the novel participates in social
+inequality, and duplicates it into cultural inequality. A theory of the
+novel should account for this. But to do so, we need a new starting point.
+3
+ See, for instance, Wlad Godzich and Jeffrey Kittay, The Emergence of Prose. An essay
+in prosaics, Minneapolis 1987, pp. 34ff. 
+114 nlr 52
+‘Veblen explains culture in terms of kitsch, not vice-versa’, writes Adorno
+in Prisms, disapprovingly:4
+ but it’s such a tempting idea. Taking the style
+of dime novels as the basic object of study, and explaining James’s as
+an unlikely by-product: that’s how a theory of prose should proceed—
+because that’s how history has proceeded. Not the other way around.
+Looking at prose style from below . . . With digital databases, this is now
+easy to imagine: a few years, and we’ll be able to search just about all
+novels that have ever been published, and look for patterns among
+billions of sentences. Personally, I am fascinated by this encounter of
+the formal and the quantitative. Let me give you an example: all literary
+scholars analyse stylistic structures—free indirect style, the stream
+of consciousness, melodramatic excess, whatever. But it’s striking how
+little we actually know about the genesis of these forms. Once they’re
+there, we know what to do; but how did they get there in the first place?
+How does the ‘confused thought’ (Michel Vovelle) of mentalité, which
+is the substratum for almost all that happens in a culture—how does
+messiness crystallize into the elegance of free indirect style? Concretely:
+what are the steps? No one really knows. By sifting through thousands
+of variations and permutations and approximations, a quantitative stylistics
+of the digital archive may find some answers. It will be difficult,
+no doubt, because one cannot study a large archive in the same way
+one studies a text: texts are designed to ‘speak’ to us, and so, provided
+we know how to listen, they always end up telling us something; but
+archives are not messages that were meant to address us, and so they
+say absolutely nothing until one asks the right question. And the trouble
+is, we literary scholars are not good at that: we are trained to listen,
+not to ask questions, and asking questions is the opposite of listening:
+it turns criticism on its head, and transforms it into an experiment of
+sorts: ‘questions put to nature’ is how experiments are often described,
+and what I’m imagining here are questions—put to culture. Difficult;
+but too interesting not to give it a try.
+II
+All this lies in the future. My second point lies in the past. Novels are
+long; or rather, they span a very wide range of lengths—from the 20,000
+words of Daphnis and Chloe to the 40,000 of Chrétien, 100,000 of
+4
+ Theodor Adorno, ‘Veblen’s Attack on Culture’, in Prisms, Cambridge, ma 1990,
+p. 79.
+moretti: Novel Theory 115
+Austen, 400,000 of Don Quixote, and over 800,000 of The Story of the
+Stone—and one day it will be interesting to analyse the consequences of
+this spectrum, but for now let’s just accept the simple notion that they
+are long. The question is, How did they get to be that way, and there are
+of course several answers, but if I had to choose a single mechanism
+I would say: adventures.5
+ Adventures expand novels by opening them
+to the world: a call for help comes—the knight goes. Usually, without
+asking questions; which is typical of adventure, the unknown is not a
+threat here, it’s an opportunity, or more precisely: there is no longer any
+distinction between threats and opportunities. ‘Who leaves the dangerous
+path for the safe’, says Galessin, one of the knights of the Round
+Table, ‘is not a knight, is a merchant’: true, capital doesn’t like danger for
+its own sake, but a knight does: he has to: he can’t accumulate glory, he
+must renew it all the time, so he needs this perpetual motion machine
+of adventure . . .
+. . . perpetual, especially if a border is in sight: across the bridge, into
+the forest, up the mountain, through the gate, at sea. Adventures make
+novels long because they make them wide; they are the great explorers of
+the fictional world: battlefields, oceans, castles, sewers, prairies, islands,
+slums, jungles, galaxies . . . Practically all great popular chronotopes have
+arisen when the adventure plot has moved into a new geography, and
+activated its narrative potential. Just as prose multiplies styles, then,
+adventure multiplies stories: and forward-looking prose is perfect for
+adventure, syntax and plot moving in unison, I’m not sure there is a
+main branch in the family of forms we call the novel, but if there is one,
+5
+ If I had to choose a single mechanism . . . And if I could choose two: adventures—
+and love. One mechanism to expand the story, and one to hold it together: a
+conjunction that is particularly clear in the ancient novels, where love is the one
+source of permanence in a world where everything else is scattered by fortune to
+the four winds, and acts therefore as a figure for the social bond in general: the freely
+chosen union from which, in antithesis to the adventures despotically imposed by
+Tuche, a larger organism can somehow be glimpsed. But this balance between love
+and adventure breaks down in chivalric romances, as errant knights start to actively
+look for adventures (the Quest), and new figures for the social contract emerge (the
+Court, the Round Table, the Grail). In this new situation, love becomes functionally
+subordinated to adventure—and the theme of adultery, which immediately arises, is
+at once the symptom of its abiding strength, and of its newly problematic position.
+This redistribution of narrative tasks, from which love has never fully recovered, is
+the reason why I decided to focus exclusively on adventures; besides, love has long
+been recognized by the theory of the novel (especially in the English tradition), and
+I wanted to shift our attention towards the historically broader phenomenon. 
+116 nlr 52
+it’s this: we would still recognize the history of the novel without modernism,
+or even without realism;6 without adventures in prose, no.
+Here, too, the novelistic field is profoundly polarized between adventures
+and the everyday; and here, too, the theory of the novel has shown very
+little interest (aside from Bakhtin, and now Pavel), for the popular side
+of the field. But I won’t repeat that aspect of the argument, and will turn
+instead to the odd narrowness that—in spite of all its plasticity—seems
+typical of adventure. A social narrowness, fundamentally. The whole idea
+had been ‘a creation of the petty nobility of penniless knights’, for whom
+‘“aventure” was a way to survive—and possibly, to marry a heiress’, writes
+Erich Köhler, who was the great sociologist of this convention.7
+ But if
+knights needed adventures, for other social classes the notion remained
+opaque. ‘I am, as you see, a knight seeking what I cannot find,’ says
+Calogrenant to a peasant at the beginning of Yvain: ‘And what do you
+want to find?’ ‘Adventure, to test my courage and my strength. Now I
+pray and beseech you to advise me, if you know, of any adventure or
+wonder’. ‘I know nothing of adventure, nor have I ever heard about
+it’ (ll. 356–67). What a reply; only a few years earlier, in the chanson de
+geste, the nature of knightly action was clear to everybody; not any more.
+Chivalric ethos has become ‘absolute . . . both in its ideal realization and
+in the absence of any earthly and practical purpose’ writes Auerbach in
+Mimesis: ‘no political function . . . no practical reality at all’. And yet, he
+goes on, this unreal ethos ‘attained acceptance and validity in the real
+world’ of Western culture for centuries to come.8
+ How could it be?
+For Köhler, the reason was that adventure became ‘stylized and moralized’
+in the much wider ideal—launched by the Crusades, and sublimated by
+the Grail—of ‘the Christian redemption of the warrior’.9 Which sounds
+6 Hopefully, modernism (that is to say: the host of centrifugal experiments—Stein,
+Kafka, Joyce, Pilniak, De Chirico, Platonov . . . —attempted in the years around
+World War I) will play a larger role than realism in any future theory of the novel,
+as a cluster of incompatible extremes should reveal something unique about what a
+form can—and cannot—do. So far, however, this has not been the case.
+7
+ Erich Köhler, ‘Il sistema sociologico del romanzo francese medievale’, Medioevo
+Romanzo, vol. 3, 1976, pp. 321–44. 8
+ Erich Auerbach, Mimesis, Princeton 2003, pp. 134, 136. On this, see also Erich
+Köhler, ‘Quelques observations d’ordre historico-sociologique sur les rapports entre
+la chanson de geste et le roman courtois’, in Chanson de geste und höfischer Roman,
+Heidelberg 1963, passim. 9 Köhler, ‘Il sistema sociologico’, p. 326.
+moretti: Novel Theory 117
+right, but in its turn opens another problem: how could these starkly
+feudal coordinates of adventure, not only survive into the bourgeois age,
+but inspire all of its most popular genres?
+III
+Before I attempt an answer, some thoughts on the third question, the
+Chinese–European comparison. Until well into the nineteenth century,
+almost the end in fact, East Asian and West European novels developed
+independently of each other; which is great, it’s like an experiment history
+has run for us, the same form in two . . . laboratories, it’s perfect for
+comparative morphology, because it allows us to look at formal features
+not as givens, as we inevitably tend to do, but as choices: and choices that
+eventually add up to alternative structures. Beginning, for instance, with
+how often the protagonists of Chinese novels are, not individuals, but
+groups: the household in the Jin Ping Mei and The Story of the Stone (or
+Dream of the Red Chamber), the outlaws in The Water Margin, the literati
+in The Scholars. Titles are already a clue—what would European titles
+do without proper names—but here, not even one; and these are not
+just random novels, they are four of the six ‘great masterpieces’ of the
+Chinese canon, their titles (and their heroes) matter.
+So, groups. Large; and with even larger character-systems around them:
+Chinese critics have identified over 600 characters in The Scholars, 800
+in The Water Margin and the Jin Ping Mei, 975 in The Story of the Stone.
+And since size is seldom just size—a story with a thousand characters
+is not like a story with fifty characters, only twenty times bigger: it’s a
+different story—all this ends up generating a structure which is very
+unlike the one we are used to in Europe. With so many variables, one
+would expect it to be more unpredictable, but the opposite is actually
+more often the case: a great attempt at reducing unpredictability, and
+re-balancing the narrative system. Let me give you an example from
+The Story of the Stone: after six or seven hundred pages, the two young
+undeclared lovers, Bao-yu and Dai-yu, have one of their many fights;
+Dai-yu leaves, and Bao-yu, left alone, falls into a sort of trance; his maid
+Aroma arrives, but he doesn’t notice her, and in his dream-like state proceeds
+to express for the first time his love for Dai-yu; then he ‘awakes’,
+sees Aroma, is bewildered, runs away, and one can imagine all sorts of
+sequels here: Aroma has been sleeping with Bao-yu for some time, and 
+118 nlr 52
+could feel wounded; or she could side with Dai-yu, and tell her what
+Bao-yu has just said; or she could betray her to the other young woman
+who is in love with Bao-yu . . . Many ways of making the episode generate
+narrative (after all, we’ve been waiting for this declaration of love for
+hundreds of pages); and instead, what Aroma immediately thinks is ‘how
+she could arrange matters so as to prevent any scandal developing from
+those words’. Preventing developments: that’s the key. Minimizing narrativity.
+The Story of the Stone is often described as a Chinese Buddenbrooks,
+and they are certainly both stories of the decline of a great family, but
+Buddenbrooks covers a half century in five hundred pages, and Stone a
+dozen years in two thousand pages: and it’s not just a matter of rhythm,
+here (although that is obviously also the case), but of the hierarchy
+between synchrony and diachrony: Stone has a ‘horizontal’ dominant,
+where what really matters is not what lies ‘ahead’ of a given event, as
+in ‘forward-looking’ European prose, but what lies ‘to the side’ of it: all
+the vibrations that ripple across this immense narrative system—and
+all the counter-vibrations that try to keep it stable. Earlier, I pointed out
+how the breakdown of symmetry allowed European prose to intensify
+irreversibility; irreversibility is present also in Chinese novels, of course,
+but instead of intensifying it they often try to contain it, and so symmetry
+regains its centrality: chapters are announced by couplets that neatly
+divide them into two halves; many important passages are couched in
+the wonderfully named ‘parallel prose’ (‘Every evening devoted to the
+pursuit of pleasure; Every morning an occasion for deluded dalliance’);
+in the novel’s overall architecture there are blocks of ten, twenty, even
+fifty chapters that mirror each other across hundreds of pages . . . It’s
+really an alternative tradition.
+Alternative, but comparable: up to the eighteenth century, the Chinese
+novel was arguably greater in both quantity and quality than any in
+Europe, with the possible exception of France. ‘The Chinese have novels
+by the thousand, and already had them when our ancestors were living
+in the forests’, said Goethe to Eckermann in 1827, on the day he coined
+the concept of Weltliteratur (while reading a Chinese novel). But the figures
+are wrong: by 1827 novels by the thousand existed in France, or
+Britain, or indeed in Germany—but not in China.
+Why? 
+moretti: Novel Theory 119
+IV
+When we discuss the destinies of eighteenth-century core areas, writes
+Kenneth Pomeranz in The Great Divergence,
+we should make our comparisons . . . truly reciprocal . . . that is, look for
+absences, accidents and obstacles that diverted England from a path that
+might have made it more like the Yangzi Delta or Gujarat, along with the
+more usual exercise of looking for blockages that kept non-European areas
+from reproducing implicitly normalized European paths . . . view both sides
+of the comparison as ‘deviations’ when seen through the expectations of the
+other, rather than leaving one as always the norm.10
+The European rise of the novel as a deviation from the Chinese path: as
+soon as you start thinking in these terms, it immediately leaps to the eye
+how much more seriously the novel was taken in China than in Europe.
+Despite all the attacks by the Confucian literati, by the early seventeenth
+century Chinese culture already had a novelistic canon; Europe wasn’t
+even thinking about it. For the epic or tragedy it had one, or the lyric;
+not for the novel. And the canon is just the tip of the iceberg: there was
+in China an immense investment of intellectual energies in the edition,
+revision, continuation, and especially commentary of novels. These were
+already very long books, The Romance of the Three Kingdoms, 600,000
+words, the inter-lineal commentary made it almost a million—but it
+added so much ‘to the enjoyment . . . of the novel’, writes David Rolston,
+‘that editions without commentary . . . went out of circulation’.11
+‘The novel has less need of . . . commentary than other genres’, writes
+Watt in The Rise of the Novel,
+12 and for Europe he’s right. But Chinese novels
+needed them, because they were seen as—art. Since at least the Jin
+Ping Mei, around 1600, ‘Chinese xiaoshuo went through an . . . extended
+aesthetic turn’, writes Ming Dong Gu: ‘a self-conscious emulation and
+competition with the dominant literary genres . . . a poeticization’.13 We
+should look for absences that diverted the European novel from the
+Chinese path . . . and here is one: the aesthetic turn of the European
+10 Kenneth Pomeranz, The Great Divergence. China, Europe, and the Making of the
+Modern World Economy, Princeton 2000, pp. 7–8. 11 David L. Rolston, Traditional Chinese Fiction and Fiction Commentary. Reading and
+Writing Between the Lines, Stanford 1997, p. 4. 12 Ian Watt, The Rise of the Novel, Berkeley 1957, p. 30. 13 Ming Dong Gu, Chinese Theories of Fiction. A Non-Western Narrative System, New
+York 2006, p. 71.
+120 nlr 52
+novel occurred in the late nineteenth century, with a delay of almost
+three hundred years.14
+Why?
+V
+For Pomeranz, one reason for the great divergence was that in eighteenthcentury
+Europe ‘the wheels of fashion were spinning faster’,15 stimulating
+consumption, and through it the economy as a whole; while in China,
+after the consolidation of the Qing dynasty, consumption ‘as a motor
+of change’ came to a halt for over a century, not triggering that ‘consumer
+revolution’ McKendrick, Brewer and Plumb have written about.
+Revolution is a big word, and many have questioned the extent of consumption
+before the mid-nineteenth-century; still, no one really doubts
+that ‘superfluous things’, to use a Chinese expression, multiplied during
+the eighteenth century, from interior decoration to mirrors, clocks, porcelain,
+silverware, jewelry—and concerts, journeys and books. ‘In any
+consideration of leisure’, writes Plumb, ‘it would be quite wrong not to
+put cultural pursuits in the foreground’.16 So: what did ‘the birth of a
+consumer society’ mean for the European novel?
+14 The divergence of the two models is well illustrated by the role played by Don
+Quixote and the Jin Ping Mei—two novels that were written in the same years, and
+are often compared to each other (more by sinologists than by hispanists, it must
+be said)—in their respective traditions: for at least two centuries, if not longer, the
+Jin Ping Mei’s influence on the theory and practice of the novel in China was incomparably
+greater than that of Don Quixote in Europe. A similar parting of the ways
+occurs in the late eighteenth century, when the peak of the Chinese aesthetic turn
+(The Story of the Stone) could have found its match in an incredibly gifted generation
+of German poet-novelists (Goethe, Hölderlin, Novalis, Schlegel, Von Arnim,
+Brentano)—if only they hadn’t been roundly ignored by European readers (except
+for Goethe, of course; but even Goethe kept the ‘poetic’ first version of Meister in a
+drawer, as if sensing that it wasn’t the right book for the times). Incidentally, that
+the Jin Ping Mei could be hailed as the masterpiece that would change the Chinese
+novel is another striking instance of the difference between the two traditions: that
+European culture could produce—and appreciate!—an erotic corpus as explicit as
+the Chinese one is quite unimaginable.
+15 Pomeranz, The Great Divergence, p. 161. 16 J. H. Plumb, ‘The Commercialization of Leisure in Eighteenth-Century England’,
+in Neil McKendrick, John Brewer, J. H. Plumb, The Birth of a Consumer Society. The
+Commercialization of Eighteenth-Century England, Bloomington 1982, pp. 265–6.
+moretti: Novel Theory 121
+First of all, a giant quantitative leap. From the first to the last decade of
+the century, new titles increased seven times in France (even though,
+in the 1790s, the French had more to do than write novels); fourteen in
+Britain; and about thirty in the German territories. Also, by the end of
+the eighteenth century print runs had become a little larger, especially
+for reprints; many novels that are not included in the standard bibliographies
+were published in magazines (some of which had a very wide
+audience); the strengthening of family ties encouraged reading aloud at
+home (providing the training ground for Dr. Bowdler’s vocation); finally,
+and most significantly, the diffusion of lending libraries made novels
+circulate much more efficiently than before, eventually leading to the
+imposition of the three-decker on writers and publishers alike, so as to
+lend each novel to three readers at once. Hard though it is to quantify
+these various factors, if all of them combined increased the circulation of
+novels between two and three times (a conservative estimate), then the
+presence of novels in Western Europe would have gone up between thirty
+and sixty times in the course of the eighteenth century. For McKendrick,
+the fact that consumption of tea rose fifteenfold in a hundred years is
+a great success story of the consumer revolution. Novels, increased
+more than tea.
+Why? The answer used to be, Because readers did. But the current
+consensus—which is slippery, like all that has to do with literacy, but
+has been stable for a few decades now—is that between 1700 and 1800,
+readers doubled; a little less than that in France, a little more in England,
+but that’s the horizon. They doubled; they didn’t increase fifty times.
+But, they were reading differently. ‘Extensive’ reading, Rolf Engelsing has
+called it: reading a lot more than in the past, avidly, at times passionately,
+but probably more often than not also superficially, quickly, even
+a little erratically; quite different from the ‘intensive’ reading and rereading
+of the same few books—usually devotional ones—that had been
+the norm until then.17 And Engelsing’s thesis has often been criticized,
+but with novels multiplying so much more quickly than readers, and
+readers behaving like the famous John Latimer, of Warwick, who from
+mid-January to mid-February 1771 borrowed a volume a day from Clay’s
+circulating library,18 it is hard to imagine how the whole process could
+have worked without a major increase in—let’s call it distraction.
+17 Rolf Engelsing, Der Bürger als Leser. Lesergeschichte in Deutschland 1500–1800,
+Stuttgart 1974, esp. pp. 182ff.
+18 Jan Fergus, Provincial Readers in Eighteenth-Century England, Oxford 2006, p. 113.
+122 nlr 52
+Let’s call it that, because, even though Engelsing never mentions
+Benjamin, extensive reading looks very much like an early version of
+that ‘perception in a state of distraction’ described at the end of ‘The
+Work of Art in the Age of its Technological Reproducibility’. Distraction
+in that essay is Zerstreuung—absent-mindedness, and entertainment: the
+perfect mix for novel-reading—and for Benjamin it is the attitude that
+becomes necessary at those ‘historical turning points’ when the ‘tasks’
+facing ‘the human apparatus of perception’ are so overwhelming that
+they can’t be ‘mastered’ by way of concentrated attention:19 and distraction
+emerges as the best way to cope with the new situation—to keep up
+with those ‘faster-spinning wheels of fashion’ that have so dramatically
+widened the market for novels.20
+19 Walter Benjamin, ‘The Work of Art in the Age of its Technological Reproducibility’,
+1935, in Selected Writings iii: 1935–1938, Cambridge, ma 2002, p. 119. The passage
+returns virtually unchanged in the third version of the essay, in 1939.
+20 As I hope is clear, my focus on consumption, fashion and distraction is not meant
+to erase capitalism from literary history, but to specify which of its aspects play a
+more direct causal role in the novel’s take-off. Unquestionably, capitalist expansion
+as such created some key general pre-conditions: a larger, more literate population;
+more disposable income; and more free time (for some). But since new novelistic
+titles increased four times faster than printed matter in general during the eighteenth
+century (even including the flood of pamphlets at the end of the century: see
+James Raven, The Business of Books. Booksellers and the English Book Trade 1450–1850,
+New Haven, cn 2007, p. 8), we must also explain this different rate of growth:
+and that peculiar exaggeration of consumer mentality embodied by distraction and
+fashion (and which seems to play a lesser role for drama, poetry, and most other
+types of cultural production), seems to be the best explanation we have found so far.
+That consumption could play such a large role in the history of the novel depends,
+in its turn, on the fact that the suspicion towards reading for pleasure was beginning
+to fade, in line with Constant’s idea of the Liberty of the Moderns as ‘the
+enjoyment of security in private pleasures’ (Benjamin Constant, Political Writings,
+Cambridge 2007, p. 317). Pleasure, by the way, is another blindspot of the theory of
+the novel: though we ‘know’, more or less, that the novel was from the very beginning
+a form of ‘light reading’ (Thomas Hägg, ‘Orality, literacy, and the “readership”
+of the early Greek novel’, in R. Eriksen, ed., Contexts of Pre-Novel Narrative, Berlin
+and New York 1994, p. 51), we still work as if reading for pleasure were basically
+the same as reading ‘for serious reasons—religious, economic, or social’ (J. Paul
+Hunter, Before Novels. The Cultural Contexts of Eighteenth Century English Fiction,
+New York and London, 1990, p. 84: one of the few to pose the problem in an interesting
+way). This is yet another issue on which specific historical studies are well
+ahead of theoretical reflection: the dramatic enlargement of the ancient novelistic
+field, for instance, would have been impossible without a shift towards popular,
+light, and even vulgar forms of writing. 
+the century, new titles increased seven times in France (even though,
+in the 1790s, the French had more to do than write novels); fourteen in
+Britain; and about thirty in the German territories. Also, by the end of
+the eighteenth century print runs had become a little larger, especially
+for reprints; many novels that are not included in the standard bibliographies
+were published in magazines (some of which had a very wide
+audience); the strengthening of family ties encouraged reading aloud at
+home (providing the training ground for Dr. Bowdler’s vocation); finally,
+and most significantly, the diffusion of lending libraries made novels
+circulate much more efficiently than before, eventually leading to the
+imposition of the three-decker on writers and publishers alike, so as to
+lend each novel to three readers at once. Hard though it is to quantify
+these various factors, if all of them combined increased the circulation of
+novels between two and three times (a conservative estimate), then the
+presence of novels in Western Europe would have gone up between thirty
+and sixty times in the course of the eighteenth century. For McKendrick,
+the fact that consumption of tea rose fifteenfold in a hundred years is
+a great success story of the consumer revolution. Novels, increased
+more than tea.
+Why? The answer used to be, Because readers did. But the current
+consensus—which is slippery, like all that has to do with literacy, but
+has been stable for a few decades now—is that between 1700 and 1800,
+readers doubled; a little less than that in France, a little more in England,
+but that’s the horizon. They doubled; they didn’t increase fifty times.
+But, they were reading differently. ‘Extensive’ reading, Rolf Engelsing has
+called it: reading a lot more than in the past, avidly, at times passionately,
+but probably more often than not also superficially, quickly, even
+a little erratically; quite different from the ‘intensive’ reading and rereading
+of the same few books—usually devotional ones—that had been
+the norm until then.17 And Engelsing’s thesis has often been criticized,
+but with novels multiplying so much more quickly than readers, and
+readers behaving like the famous John Latimer, of Warwick, who from
+mid-January to mid-February 1771 borrowed a volume a day from Clay’s
+circulating library,18 it is hard to imagine how the whole process could
+have worked without a major increase in—let’s call it distraction.
+17 Rolf Engelsing, Der Bürger als Leser. Lesergeschichte in Deutschland 1500–1800,
+Stuttgart 1974, esp. pp. 182ff.
+18 Jan Fergus, Provincial Readers in Eighteenth-Century England, Oxford 2006, p. 113.
+122 nlr 52
+Let’s call it that, because, even though Engelsing never mentions
+Benjamin, extensive reading looks very much like an early version of
+that ‘perception in a state of distraction’ described at the end of ‘The
+Work of Art in the Age of its Technological Reproducibility’. Distraction
+in that essay is Zerstreuung—absent-mindedness, and entertainment: the
+perfect mix for novel-reading—and for Benjamin it is the attitude that
+becomes necessary at those ‘historical turning points’ when the ‘tasks’
+facing ‘the human apparatus of perception’ are so overwhelming that
+they can’t be ‘mastered’ by way of concentrated attention:19 and distraction
+emerges as the best way to cope with the new situation—to keep up
+with those ‘faster-spinning wheels of fashion’ that have so dramatically
+widened the market for novels.20
+19 Walter Benjamin, ‘The Work of Art in the Age of its Technological Reproducibility’,
+1935, in Selected Writings iii: 1935–1938, Cambridge, ma 2002, p. 119. The passage
+returns virtually unchanged in the third version of the essay, in 1939.
+20 As I hope is clear, my focus on consumption, fashion and distraction is not meant
+to erase capitalism from literary history, but to specify which of its aspects play a
+more direct causal role in the novel’s take-off. Unquestionably, capitalist expansion
+as such created some key general pre-conditions: a larger, more literate population;
+more disposable income; and more free time (for some). But since new novelistic
+titles increased four times faster than printed matter in general during the eighteenth
+century (even including the flood of pamphlets at the end of the century: see
+James Raven, The Business of Books. Booksellers and the English Book Trade 1450–1850,
+New Haven, cn 2007, p. 8), we must also explain this different rate of growth:
+and that peculiar exaggeration of consumer mentality embodied by distraction and
+fashion (and which seems to play a lesser role for drama, poetry, and most other
+types of cultural production), seems to be the best explanation we have found so far.
+That consumption could play such a large role in the history of the novel depends,
+in its turn, on the fact that the suspicion towards reading for pleasure was beginning
+to fade, in line with Constant’s idea of the Liberty of the Moderns as ‘the
+enjoyment of security in private pleasures’ (Benjamin Constant, Political Writings,
+Cambridge 2007, p. 317). Pleasure, by the way, is another blindspot of the theory of
+the novel: though we ‘know’, more or less, that the novel was from the very beginning
+a form of ‘light reading’ (Thomas Hägg, ‘Orality, literacy, and the “readership”
+of the early Greek novel’, in R. Eriksen, ed., Contexts of Pre-Novel Narrative, Berlin
+and New York 1994, p. 51), we still work as if reading for pleasure were basically
+the same as reading ‘for serious reasons—religious, economic, or social’ (J. Paul
+Hunter, Before Novels. The Cultural Contexts of Eighteenth Century English Fiction,
+New York and London, 1990, p. 84: one of the few to pose the problem in an interesting
+way). This is yet another issue on which specific historical studies are well
+ahead of theoretical reflection: the dramatic enlargement of the ancient novelistic
+field, for instance, would have been impossible without a shift towards popular,
+light, and even vulgar forms of writing. 
+moretti: Novel Theory 123
+What did the birth of a consumer society mean for the European novel?
+More novels, and less attention. Dime novels, not James, setting the tone
+of the new way of reading. Jan Fergus, who knows more about lending
+libraries’ records than anyone else, calls it ‘desultory’ reading: borrowing
+the second volume of Gulliver’s Travels but not the first, or the fourth,
+out of five, of The Fool of Quality. And Fergus then hails this as ‘readers’
+agency, their power of choice’21—but, frankly, the choice here seems to
+be, giving up all consistency, in order to be always somehow in touch
+with what the market has to offer. Leaving the tv on all day long, and
+watching it every now and then—that’s not agency.
+VI
+Why was there no rise of the Chinese novel in the eighteenth century—
+and no European aesthetic turn? The answers mirror each other: taking
+the novel seriously as an aesthetic object slowed down consumption—
+while a quickened market for novels discouraged aesthetic concentration.
+‘When reading the first chapter, the good reader has already cast his
+eyes towards the last’, says a commentary to the Jin Ping Mei (which is
+two thousand pages long); ‘when reading the last chapter, he is already
+recalling the first’.22 This is what intensive reading is like: the only true
+reading is re-reading, or even ‘a series of re-readings’, as some commentators
+seem to assume. ‘If you don’t put your pen into action, it cannot
+really be considered reading’, as Mao once put it. Study; not one-volumeper-day
+consumption. In Europe, only modernism made people study
+novels. Had they read with pen and commentary in the eighteenth century,
+there would have been no rise of the European novel.
+VII
+Typically, the great theories of the novel have been theories of modernity,
+and my insistence on the market is a particularly brutal version
+thereof. But with a complication, suggested by another research project
+I’m engaged in at present, on the figure of the bourgeois, in the course
+of which I have been often surprised by how limited the diffusion of
+21 Fergus, Provincial Readers, pp. 108–16, 117. 22
+ Rolston, Traditional Chinese Fiction, p. 126.
+124 nlr 52
+bourgeois values seems to have actually been. Capitalism has spread everywhere,
+no doubt about that, but the values which—according to Marx,
+Weber, Simmel, Sombart, Freud, Schumpeter, Hirschmann . . . —are
+supposed to be most congruous with it have not, and this has made me
+look at the novel with different eyes: no longer as the ‘natural’ form of
+bourgeois modernity, but rather as that through which the pre-modern
+imaginary continues to pervade the capitalist world. Whence, adventure.
+The anti-type of the spirit of modern capitalism, for The Protestant
+Ethic; a slap in the face of realism, as Auerbach saw so clearly in Mimesis.
+What is adventure doing in the modern world? Margaret Cohen, from
+whom I have learned a lot on this, sees it as a trope of expansion: capitalism
+on the offensive, planetary, crossing the oceans. I think she is
+right, and would only add that the reason adventure works so well within
+this context is that it’s so good at imagining war. Enamoured of physical
+strength, which it moralizes as the rescue of the weak from all sorts of
+abuses, adventure is the perfect blend of might and right to accompany
+capitalist expansions. That’s why Köhler’s Christian warrior has not only
+survived in our culture—in novels; films; videogames—not only survived,
+but dwarfed any comparable bourgeois figure. Schumpeter put it
+crudely and clearly: ‘The bourgeois class . . . needs a master.’23
+It needs a master—to help it rule. In finding distortion after distortion
+of core bourgeois values, my first reaction was always to wonder
+at the loss of class identity that this entailed; which is true, but, from
+another perspective, completely irrelevant, because hegemony doesn’t
+need purity—it needs plasticity, camouflage, collusion between the old
+and the new. Under this different constellation, the novel returns to be
+central to our understanding of modernity: not despite, but because of
+its pre-modern traits, which are not archaic residues, but functional
+articulations of ideological needs. To decipher the geological strata of
+consensus in the capitalist world—here is a worthy challenge, for the
+history and the theory of the novel.
